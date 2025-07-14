@@ -86,13 +86,22 @@ CREATE TABLE admission (
 ```
 ---
 
+## 📸 Project Screenshot
+
+Below is a screenshot of the working **College Admission Management System**:
+
+![Console Output](./Screenshot.png)
+
+---
+
 ## Author
 
 Name: Arundati Anand Patil
 
 Email: patilarundhati44@gmail.com
 
-GitHub: @patilarundhati44
+GitHub: patilarundhati44
+
 
 
     <
