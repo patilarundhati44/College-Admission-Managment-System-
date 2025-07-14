@@ -27,7 +27,7 @@
     </dependency>
     <dependency>
     	<groupId>com.project</groupId>
-    	<artifactId>CoreJavaProject</artifactId>
+    	<artifactId>CollegeAdmissionSystem</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
